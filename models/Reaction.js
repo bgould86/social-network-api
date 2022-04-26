@@ -1,7 +1,6 @@
 const { Schema, Types } = require("mongoose");
 const dateFormat = require("./../utils/dateFormat");
 
-// Schema to create a course model
 const reactionSchema = new Schema(
   {
     reactionId: {
