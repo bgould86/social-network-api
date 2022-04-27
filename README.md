@@ -35,4 +35,4 @@ If you have any questions, please contact:
 ## Links
 
 - Here is the repo: [https://github.com/bgould86/social-network-api](https://github.com/bgould86/social-network-api)
-- Here is the video walk through: [https://TKTK](https://TKTK)
+- Here is the video walk through: [https://youtube.com/watch?v=wdw1-1Yfv4w](https://youtube.com/watch?v=wdw1-1Yfv4w)
